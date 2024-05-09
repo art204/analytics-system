@@ -37,4 +37,7 @@
 
 Стек технологий: Angular, Django REST Framework, PostgreSQL, Prometheus, Grafana, Kubernetes.
 
+### demo
+- 01 Количество посылок и пользователей в день `https://youtu.be/ImUmlwSDDIo`
+
 
