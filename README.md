@@ -38,6 +38,12 @@
 Стек технологий: Angular, Django REST Framework, PostgreSQL, Prometheus, Grafana, Kubernetes.
 
 ### demo
-- 01 Количество посылок и пользователей в день `https://youtu.be/ImUmlwSDDIo`
+- 01 Количество посылок и пользователей в день [https://youtu.be/ImUmlwSDDIo]
+- 02 Сдача задания по дням [https://youtu.be/JuTIaZziQwQ]
+- 03 Количество студентов или посылок по заданиям [https://youtu.be/sDl1gtR4AqA]
+- 04 Распределение оценок [https://youtu.be/eIbwT9fqJ74]
+- 05 Распределение количества попыток [https://youtu.be/wWP1IAx2mjI]
+- 06 Распределение студентов по преподавателям [https://youtu.be/H3t5XiLZGMA]
+- 07 Распределение посылок и студентов по статусам [https://youtu.be/VuehPGSXOuE]
 
 
